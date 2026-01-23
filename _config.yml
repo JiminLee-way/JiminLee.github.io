@@ -19,6 +19,8 @@ navigation:
     url: /publications/
   - title: Projects
     url: /projects/
+  - title: CVE/KVE
+    url: /cve-kve/
   - title: Contact
     url: /contact/
 
